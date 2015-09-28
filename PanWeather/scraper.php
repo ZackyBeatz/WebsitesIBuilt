@@ -1,7 +1,7 @@
 <?php 
 
 
-$city=$_GET['city';
+$city=$_GET['city'];
 
 $city = str_replace(" ", "", $city);
 
